@@ -1,0 +1,14 @@
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\bin\Debug\net8.0\DataGenerator.exe
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\bin\Debug\net8.0\DataGenerator.deps.json
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\bin\Debug\net8.0\DataGenerator.runtimeconfig.json
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\bin\Debug\net8.0\DataGenerator.dll
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\bin\Debug\net8.0\DataGenerator.pdb
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.GeneratedMSBuildEditorConfig.editorconfig
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.AssemblyInfoInputs.cache
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.AssemblyInfo.cs
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.csproj.CoreCompileInputs.cache
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.dll
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\refint\DataGenerator.dll
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.pdb
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.genruntimeconfig.cache
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\ref\DataGenerator.dll

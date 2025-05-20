@@ -1,0 +1,53 @@
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\TimeCostMeter.deps.json
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\TimeCostMeter.runtimeconfig.json
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Bitonic Sort.deps.json
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Bitonic Sort.runtimeconfig.json
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Bitonic Sort.exe
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\TimeCostMeter.exe
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Chart.exe
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Chart.deps.json
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Chart.runtimeconfig.json
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Chart.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Chart.pdb
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\HarfBuzzSharp.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\OpenTK.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\OpenTK.GLControl.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\ScottPlot.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\ScottPlot.WinForms.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\SkiaSharp.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\SkiaSharp.HarfBuzz.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\SkiaSharp.Views.Desktop.Common.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\SkiaSharp.Views.WindowsForms.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libHarfBuzzSharp.so
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libHarfBuzzSharp.so
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libHarfBuzzSharp.so
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libHarfBuzzSharp.so
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\osx\native\libHarfBuzzSharp.dylib
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\win-x64\native\libHarfBuzzSharp.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\win-x86\native\libHarfBuzzSharp.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\linux-arm\native\libSkiaSharp.so
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\linux-arm64\native\libSkiaSharp.so
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\linux-musl-x64\native\libSkiaSharp.so
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\linux-x64\native\libSkiaSharp.so
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\osx\native\libSkiaSharp.dylib
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\win-arm64\native\libSkiaSharp.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\win-x64\native\libSkiaSharp.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\runtimes\win-x86\native\libSkiaSharp.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Bitonic Sort.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\TimeCostMeter.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\TimeCostMeter.pdb
+X:\КФУ\АсД\2 сем\Семестровка\Chart\bin\Debug\net8.0-windows\Bitonic Sort.pdb
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.csproj.AssemblyReference.cache
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.Form1.resources
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.csproj.GenerateResource.cache
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.GeneratedMSBuildEditorConfig.editorconfig
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.AssemblyInfoInputs.cache
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.AssemblyInfo.cs
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.csproj.CoreCompileInputs.cache
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.csproj.Up2Date
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\refint\Chart.dll
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.pdb
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\Chart.genruntimeconfig.cache
+X:\КФУ\АсД\2 сем\Семестровка\Chart\obj\Debug\net8.0-windows\ref\Chart.dll

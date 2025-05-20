@@ -1,0 +1,21 @@
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\Bitonic Sort.deps.json
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\Bitonic Sort.runtimeconfig.json
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\Bitonic Sort.exe
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\TimeCostMeter.exe
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\TimeCostMeter.deps.json
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\TimeCostMeter.runtimeconfig.json
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\TimeCostMeter.dll
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\TimeCostMeter.pdb
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\Bitonic Sort.dll
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\bin\Debug\net8.0\Bitonic Sort.pdb
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.csproj.AssemblyReference.cache
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.GeneratedMSBuildEditorConfig.editorconfig
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.AssemblyInfoInputs.cache
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.AssemblyInfo.cs
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.csproj.CoreCompileInputs.cache
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCost.D1AE2BAE.Up2Date
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.dll
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\refint\TimeCostMeter.dll
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.pdb
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.genruntimeconfig.cache
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\ref\TimeCostMeter.dll
