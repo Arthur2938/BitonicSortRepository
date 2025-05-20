@@ -19,3 +19,4 @@ X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\
 X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.pdb
 X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.genruntimeconfig.cache
 X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\ref\TimeCostMeter.dll
+X:\КФУ\АсД\2 сем\Семестровка\TimeCostMeter\obj\Debug\net8.0\TimeCostMeter.sourcelink.json

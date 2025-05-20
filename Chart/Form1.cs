@@ -8,22 +8,22 @@ namespace Chart
         public Form1()
         {
             InitializeComponent();
-            formsPlot1.Dock = DockStyle.Fill; // <--- Добавить эту строку
+            formsPlot1.Dock = DockStyle.Fill; // <--- пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅ
             //CreateScatterPlot();
             CreateScatterPlot();
         }
         private void CreateScatterPlot()
         {
-            var col = TimeCostMeter.Program.ReturnCollection();
+            var col = TimeCostMeter.Program.ReturnCollection().OrderBy(el => el.SetLength);
             double[] ArraySizeX = col.Select(el => Convert.ToDouble(el.SetLength)).ToArray();
-            //double[] TimeSpanY = col.Select(el => Convert.ToDouble(el.TimeSpan)).ToArray();
-            double[] Iterations = col.Select(el => Convert.ToDouble(el.IterationsCount)).ToArray();
-            var scatterPlot = this.formsPlot1.Plot.Add.Scatter(ArraySizeX, Iterations);
+            double[] TimeSpanY = col.Select(el => Convert.ToDouble(el.TimeSpan)).ToArray();
+            // double[] Iterations = col.Select(el => Convert.ToDouble(el.IterationsCount)).ToArray();
+            var scatterPlot = this.formsPlot1.Plot.Add.Scatter(ArraySizeX, TimeSpanY);
 
-            formsPlot1.Plot.XLabel("Размер массива");
-            formsPlot1.Plot.YLabel("Время выполнения");
-            formsPlot1.Plot.Title("Диаграмма Рассеяния");
-            scatterPlot.LineStyle.Width = 0;
+            formsPlot1.Plot.XLabel("пїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
+            formsPlot1.Plot.YLabel("пїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
+            formsPlot1.Plot.Title("пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ");
+            // scatterPlot.LineStyle.Width = 0;
             formsPlot1.Refresh();
         }
         private void Form1_Load(object sender, EventArgs e)

@@ -12,3 +12,4 @@ X:\КФУ\АсД\2 сем\Семестровка\Bitonic Sort\obj\Debug\net8.0\r
 X:\КФУ\АсД\2 сем\Семестровка\Bitonic Sort\obj\Debug\net8.0\Bitonic Sort.pdb
 X:\КФУ\АсД\2 сем\Семестровка\Bitonic Sort\obj\Debug\net8.0\Bitonic Sort.genruntimeconfig.cache
 X:\КФУ\АсД\2 сем\Семестровка\Bitonic Sort\obj\Debug\net8.0\ref\Bitonic Sort.dll
+X:\КФУ\АсД\2 сем\Семестровка\Bitonic Sort\obj\Debug\net8.0\Bitonic Sort.sourcelink.json

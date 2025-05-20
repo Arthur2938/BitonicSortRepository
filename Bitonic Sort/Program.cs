@@ -16,10 +16,9 @@ public static class Sorter
         arr[i] = arr[j];
         arr[j] = temp;
     }
-    public static void Bitonic_sort(int[] array, out long timeSpan, out int iterationsCount)
+    public static void Bitonic_sort(int[] array, out double timeSpan, out int iterationsCount)
     {
         Stopwatch sw = new Stopwatch();
-        timeSpan = 0;
         iterationsCount = 0;
 
         sw.Start();
@@ -49,6 +48,6 @@ public static class Sorter
             }
         }
         sw.Stop();
-        timeSpan = sw.ElapsedMilliseconds;
+        timeSpan = sw.Elapsed.TotalMicroseconds;
     }
 }

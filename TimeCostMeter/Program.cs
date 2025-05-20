@@ -6,7 +6,7 @@ using Bitonic_Sort;
 public class SetParameters
 {
     public int SetLength { get; set; }
-    public long TimeSpan { get; set; }
+    public double TimeSpan { get; set; }
     public int IterationsCount { get; set; }
 
     public SetParameters(int setlength, long timeSpan, int iterationsCount)
@@ -27,7 +27,7 @@ public class Program
         {
             int[] set = sr.ReadLine().Split(' ').SkipLast(1).Select(str => Int32.Parse(str)).ToArray();
             int iterCount;
-            long timeSpan;
+            double timeSpan;
             Sorter.Bitonic_sort(set, out timeSpan, out iterCount);
             sets[i] = new SetParameters(set.Length, timeSpan, iterCount);
         }
