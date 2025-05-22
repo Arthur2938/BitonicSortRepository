@@ -11,10 +11,6 @@
       "RelativeMoniker": "D:0:0:{00099B26-DFCF-4919-BC96-CE1EE0AA152E}|Chart\\Chart.csproj|solutionrelative:chart\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00099B26-DFCF-4919-BC96-CE1EE0AA152E}|Chart\\Chart.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\chart\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{00099B26-DFCF-4919-BC96-CE1EE0AA152E}|Chart\\Chart.csproj|solutionrelative:chart\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{00099B26-DFCF-4919-BC96-CE1EE0AA152E}|Chart\\Chart.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\chart\\chart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{00099B26-DFCF-4919-BC96-CE1EE0AA152E}|Chart\\Chart.csproj|solutionrelative:chart\\chart.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
@@ -23,12 +19,24 @@
       "RelativeMoniker": "D:0:0:{09E198A9-DBA5-4703-A9C1-B12E05EBD9A9}|TimeCostMeter\\TimeCostMeter.csproj|solutionrelative:timecostmeter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{09E198A9-DBA5-4703-A9C1-B12E05EBD9A9}|TimeCostMeter\\TimeCostMeter.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\timecostmeter\\timecostmeter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{09E198A9-DBA5-4703-A9C1-B12E05EBD9A9}|TimeCostMeter\\TimeCostMeter.csproj|solutionrelative:timecostmeter\\timecostmeter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{106014BD-28C2-4CA9-B8ED-97BFA3A1D191}|DataGenerator\\DataGenerator.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\datagenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{106014BD-28C2-4CA9-B8ED-97BFA3A1D191}|DataGenerator\\DataGenerator.csproj|solutionrelative:datagenerator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00099B26-DFCF-4919-BC96-CE1EE0AA152E}|Chart\\Chart.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\chart\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00099B26-DFCF-4919-BC96-CE1EE0AA152E}|Chart\\Chart.csproj|solutionrelative:chart\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D9E9D61-8CC7-445A-94DC-E33558FF456D}|Bitonic Sort\\Bitonic Sort.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\bitonic sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D9E9D61-8CC7-445A-94DC-E33558FF456D}|Bitonic Sort\\Bitonic Sort.csproj|solutionrelative:bitonic sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00099B26-DFCF-4919-BC96-CE1EE0AA152E}|Chart\\Chart.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\chart\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{00099B26-DFCF-4919-BC96-CE1EE0AA152E}|Chart\\Chart.csproj|solutionrelative:chart\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E198A9-DBA5-4703-A9C1-B12E05EBD9A9}|TimeCostMeter\\TimeCostMeter.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\timecostmeter\\timecostmeter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09E198A9-DBA5-4703-A9C1-B12E05EBD9A9}|TimeCostMeter\\TimeCostMeter.csproj|solutionrelative:timecostmeter\\timecostmeter.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4D9E9D61-8CC7-445A-94DC-E33558FF456D}|Bitonic Sort\\Bitonic Sort.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\bitonic sort\\bitonic sort.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -37,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{106014BD-28C2-4CA9-B8ED-97BFA3A1D191}|DataGenerator\\DataGenerator.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\datagenerator\\datagenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{106014BD-28C2-4CA9-B8ED-97BFA3A1D191}|DataGenerator\\DataGenerator.csproj|solutionrelative:datagenerator\\datagenerator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D9E9D61-8CC7-445A-94DC-E33558FF456D}|Bitonic Sort\\Bitonic Sort.csproj|x:\\\u043A\u0444\u0443\\\u0430\u0441\u0434\\2 \u0441\u0435\u043C\\\u0441\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\bitonic sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D9E9D61-8CC7-445A-94DC-E33558FF456D}|Bitonic Sort\\Bitonic Sort.csproj|solutionrelative:bitonic sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,19 +58,20 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Chart\\Form1.Designer.cs",
               "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.Designer.cs",
               "RelativeToolTip": "Chart\\Form1.Designer.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwA0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:35:22.682Z"
+              "WhenOpened": "2025-05-20T11:35:22.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Chart.csproj",
               "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Chart.csproj",
               "RelativeDocumentMoniker": "Chart\\Chart.csproj",
@@ -74,7 +79,8 @@
               "RelativeToolTip": "Chart\\Chart.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T11:35:17.021Z"
+              "WhenOpened": "2025-05-20T11:35:17.021Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -82,9 +88,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.cs",
               "RelativeDocumentMoniker": "Chart\\Form1.cs",
-              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.cs",
-              "RelativeToolTip": "Chart\\Form1.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBkAAAAsAAAAAAAAAA==",
+              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.cs*",
+              "RelativeToolTip": "Chart\\Form1.cs*",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAtwBQAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-20T11:10:57.832Z",
               "EditorCaption": ""
@@ -95,38 +101,41 @@
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.cs",
               "RelativeDocumentMoniker": "Chart\\Form1.cs",
-              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Chart\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Chart\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T11:02:26.763Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\DataGenerator\\Program.cs",
-              "RelativeDocumentMoniker": "DataGenerator\\Program.cs",
-              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\DataGenerator\\Program.cs",
-              "RelativeToolTip": "DataGenerator\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:44:33.573Z"
+              "WhenOpened": "2025-05-20T11:02:26.763Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
+              "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\DataGenerator\\Program.cs",
+              "RelativeDocumentMoniker": "DataGenerator\\Program.cs",
+              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\DataGenerator\\Program.cs",
+              "RelativeToolTip": "DataGenerator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:44:33.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\TimeCostMeter\\Program.cs",
               "RelativeDocumentMoniker": "TimeCostMeter\\Program.cs",
               "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\TimeCostMeter\\Program.cs",
               "RelativeToolTip": "TimeCostMeter\\Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBsAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:21:50.543Z"
+              "WhenOpened": "2025-05-20T09:21:50.543Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "Bitonic Sort.csproj",
               "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Bitonic Sort\\Bitonic Sort.csproj",
               "RelativeDocumentMoniker": "Bitonic Sort\\Bitonic Sort.csproj",
@@ -134,35 +143,12 @@
               "RelativeToolTip": "Bitonic Sort\\Bitonic Sort.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T09:02:10.476Z"
+              "WhenOpened": "2025-05-20T09:02:10.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "TimeCostMeter.csproj",
-              "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\TimeCostMeter\\TimeCostMeter.csproj",
-              "RelativeDocumentMoniker": "TimeCostMeter\\TimeCostMeter.csproj",
-              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\TimeCostMeter\\TimeCostMeter.csproj",
-              "RelativeToolTip": "TimeCostMeter\\TimeCostMeter.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T09:25:15.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DataGenerator.csproj",
-              "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\DataGenerator\\DataGenerator.csproj",
-              "RelativeDocumentMoniker": "DataGenerator\\DataGenerator.csproj",
-              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\DataGenerator\\DataGenerator.csproj",
-              "RelativeToolTip": "DataGenerator\\DataGenerator.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-20T09:44:30.14Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Bitonic Sort\\Program.cs",
               "RelativeDocumentMoniker": "Bitonic Sort\\Program.cs",
@@ -170,7 +156,46 @@
               "RelativeToolTip": "Bitonic Sort\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:02:13.813Z"
+              "WhenOpened": "2025-05-20T09:02:13.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.resx",
+              "RelativeDocumentMoniker": "Chart\\Form1.resx",
+              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\Chart\\Form1.resx",
+              "RelativeToolTip": "Chart\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-20T13:59:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TimeCostMeter.csproj",
+              "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\TimeCostMeter\\TimeCostMeter.csproj",
+              "RelativeDocumentMoniker": "TimeCostMeter\\TimeCostMeter.csproj",
+              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\TimeCostMeter\\TimeCostMeter.csproj",
+              "RelativeToolTip": "TimeCostMeter\\TimeCostMeter.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T09:25:15.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataGenerator.csproj",
+              "DocumentMoniker": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\DataGenerator\\DataGenerator.csproj",
+              "RelativeDocumentMoniker": "DataGenerator\\DataGenerator.csproj",
+              "ToolTip": "X:\\\u041A\u0424\u0423\\\u0410\u0441\u0414\\2 \u0441\u0435\u043C\\\u0421\u0435\u043C\u0435\u0441\u0442\u0440\u043E\u0432\u043A\u0430\\DataGenerator\\DataGenerator.csproj",
+              "RelativeToolTip": "DataGenerator\\DataGenerator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T09:44:30.14Z",
+              "EditorCaption": ""
             }
           ]
         }

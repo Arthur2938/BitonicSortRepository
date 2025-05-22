@@ -9,7 +9,7 @@ public class SetParameters
     public double TimeSpan { get; set; }
     public int IterationsCount { get; set; }
 
-    public SetParameters(int setlength, long timeSpan, int iterationsCount)
+    public SetParameters(int setlength, double timeSpan, int iterationsCount)
     {
         SetLength = setlength;
         TimeSpan = timeSpan;
@@ -29,6 +29,7 @@ public class Program
             int iterCount;
             double timeSpan;
             Sorter.Bitonic_sort(set, out timeSpan, out iterCount);
+
             sets[i] = new SetParameters(set.Length, timeSpan, iterCount);
         }
         return sets;

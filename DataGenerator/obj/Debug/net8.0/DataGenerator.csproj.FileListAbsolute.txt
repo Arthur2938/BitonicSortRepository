@@ -12,3 +12,4 @@ X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\
 X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.pdb
 X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.genruntimeconfig.cache
 X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\ref\DataGenerator.dll
+X:\КФУ\АсД\2 сем\Семестровка\DataGenerator\obj\Debug\net8.0\DataGenerator.sourcelink.json

@@ -20,9 +20,9 @@ namespace Chart
             // double[] Iterations = col.Select(el => Convert.ToDouble(el.IterationsCount)).ToArray();
             var scatterPlot = this.formsPlot1.Plot.Add.Scatter(ArraySizeX, TimeSpanY);
 
-            formsPlot1.Plot.XLabel("������ �������");
-            formsPlot1.Plot.YLabel("����� ����������");
-            formsPlot1.Plot.Title("��������� ���������");
+            formsPlot1.Plot.XLabel("Длина массива");
+            formsPlot1.Plot.YLabel("Микросекунды");
+            formsPlot1.Plot.Title("Диаграмма");
             // scatterPlot.LineStyle.Width = 0;
             formsPlot1.Refresh();
         }
